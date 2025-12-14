@@ -1,0 +1,10 @@
+numpy
+ripser
+gudhi
+scipy
+pandas
+matplotlib
+tqdm
+ruptures
+statsmodels
+yfinance
